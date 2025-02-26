@@ -1,0 +1,162 @@
+h1   {
+    color:blueviolet;
+    font-weight: bold;
+    font-family:playfair;
+
+}
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family:Verdana, Geneva, Tahoma, sans-serif, playfair, gabriela
+    "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+    background-color:rgb(137, 199, 230) (223, 182, 221);
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color:#e5e7eb 239, 244, 247);
+  padding: 0 20px 20px 20px;
+  border: 5px solid orchid (238, 154, 217);
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color:mediumorchid;
+  text-shadow: 1px 1px 1px rgb(141, 26, 135);
+}
+<style>
+     mark {background-color:palegreen;}
+        {font-family:gabriela}>
+        {font-size:26px}>
+    </style>
+
+    html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin:0;
+  padding:0;
+  border:0;
+  outline:0;
+  font-size:100%;
+  vertical-align:baseline;
+  background:paleturquoise;
+}
+body {
+  line-height:1;
+}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+  display:block;
+}
+nav ul {
+  list-style:none;
+}
+  blockquote, q {
+  quotes:none;
+}
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+  content:'';
+  content:none;
+}
+a {
+  margin:0;
+  padding:0;
+  font-size:100%;
+  vertical-align:baseline;
+  background:transparent;
+}
+/* change colours to suit your needs */
+ins {
+  background-color:#ff9;
+  color:#000;
+  text-decoration:none;
+}
+/* change colours to suit your needs */
+mark {
+  background-color:rgb(255, 153, 250);
+  color:#000;
+  font-style: normal;
+  font-weight:bold;
+}
+del {
+  text-decoration: line-through;
+}
+abbr[title], dfn[title] {
+  border-bottom:1px dotted;
+  cursor:help;
+}
+table {
+  border-collapse:collapse;
+  border-spacing:0;
+}
+/* change border colour to suit your needs */
+hr {
+  display:block;
+  height:1px;
+  border:0;
+  border-top:1px solid #f88484;
+  margin:1em 0;
+  padding:0;
+}
+input, select {
+  vertical-align:middle;
+}
+h1 {
+  font-size: 35px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+<!-- HTML !-->
+<button class="button-74" role="button">Button 74</button>
+
+/* CSS */
+.button-74 {
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-74:hover {
+  background-color: #fff;
+}
+
+.button-74:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button-74 {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+}
+max-width:700px;margin:3em auto;
